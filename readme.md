@@ -8,3 +8,10 @@ The best ways are:
 
 Thank you for making interset!!
 
+print("Hello Sir Good Morning!")
+print("Hello sister good morning!")
+
+it is a nice repository for Beginers
+It is for End statement
+
+
